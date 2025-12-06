@@ -1,5 +1,5 @@
 # ControlAforoAIROS
-## 🎥 Video Demostrativo
+## 🎥 Video Explicativo
 
 Puedes ver el funcionamiento del sistema de conteo de personas aquí:
 
